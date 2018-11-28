@@ -19,9 +19,12 @@
 
 Setting up the local server
 
+```
 ** Note :
+    ~ API Root -> http://localhost:3000/api/v1/
     ~ Create a db in mlab
     ~ Update your mlab url in "config -> config.js".
+```
 
 ```
 1) Clone the repository
